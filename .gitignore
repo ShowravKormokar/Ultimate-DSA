@@ -56,5 +56,5 @@ desktop.ini
 
 # Test output files
 test-output/
-
+/Temp
 temp.cpp
